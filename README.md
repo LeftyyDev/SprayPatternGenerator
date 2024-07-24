@@ -1,4 +1,4 @@
-# Unity Spray Pattern Generator
+# Unity Spray Pattern Generator 🔫
 Easily create weapon spray pattern for your game. Open up the project in Unity and enjoy.
 
 I got a working recoil system, but i dont want to tweak the array values for like 30 Weapons manually. I cant find anythink online, so i created a small but usefull Recoil Pattern Generator.
